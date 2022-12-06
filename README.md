@@ -113,3 +113,8 @@ Before creating a pull request, the first thing to do is to fork the repository 
 If you have done the previous steps correctly, you should get a message stating you have made a successful push. Go back to GitHub to see your pushed branch.
 On GitHub, on the right-hand side of the new branch, you will see a green button tagged compare and pull request. Click it to proceed.
 
+# Conclusion:
+Learning how to use GitHub as a developer, whether you are a junior or senior developer, is crucial to your future in software development. You must have a basic understanding of GitHub in order to network with other developers, benefit from their knowledge, and maybe land a job.
+
+I sincerely hope that this article was useful in introducing you to GitHub and its features.
+
