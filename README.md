@@ -32,3 +32,31 @@ GitHub is a cloud-based hosting service that lets you manage Git repositories. I
 | Git is a local repository for tracking changes | GitHub is a remote repository that can be accessed from anywhere. |
 | In Git, the user can commit changes to the local repository | GitHub the user can commit changes to the remote repository. |
 | Git is used for source code management | GitHub is used for project management. |
+
+# GitHub Desktop vs. Github CLI
+
+Both GitHub Desktop and GitHub CLI are tools used to interact with GitHub repositories. Both tools allow users to manage their local and remote repositories, clone repositories from GitHub, create and manage branches, commit changes, and push and pull changes from GitHub. The main difference between the two are highlighted in the table below
+| GitHub Desktop  | Github CLI |
+| ------------- | ------------- |
+| GitHub Desktop is a graphical user interface (GUI)l  | GitHub CLI is a command line interface (CLI).   |
+| GitHub Desktop is more user-friendly and provides a graphical representation of the repository  | GitHub CLI requires users to use commands to make changes.  |
+| GitHub Desktop provides a visual feedback of changes made | GitHub CLI requires users to type in commands to view the changes. |
+| GitHub Desktop can be used to commit, add files, and sync changes with the server | GitHub CLI requires users to use commands for all these actions. |
+| GitHub Desktop allows users to create branches easily  | GitHub CLI requires users to use commands to create branches. |
+
+The preference for GitHub Desktop or Github CLI depends on the user's needs and preferences. For instance, GitHub Desktop is a more user-friendly option for those who are not familiar with command-line interfaces, while Github CLI is a better choice for users who prefer to use command-line interfaces and automate tasks.
+
+# What to do and How to Do It on GitHub
+
+# 1. Cloning on GitHub
+
+Cloning on GitHub means to download a copy of a repository from a remote server to your local computer. It allows you to make a local copy of an entire project from a remote repository. This is helpful for creating your own local version of a repository to work with and make changes to.
+
+# How to clone on GitHub
+## Steps
+
+1. Go to the GitHub page and login to your profile
+2. Navigate to the repositories
+3. Select the GitHub repository you wish to clone by clicking on it (in this project I will clone the Git Demo Github repository.)
+4. Once the repository opens, Click `Code` button on green
+
