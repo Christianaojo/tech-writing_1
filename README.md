@@ -82,3 +82,17 @@ The GitHub repository will be downloaded (cloned) immediately to your PC.
 ![5](https://user-images.githubusercontent.com/95081227/205906811-848e8d65-3fdd-4f0b-8b90-77ea30f61e99.JPG)
 
 ## Congratulations! You have successfully cloned a repository.
+
+# Pull Request(PR)
+You can suggest modifications and ask the repository owner to review, pull in, and merge your contribution into their branch by submitting a pull request. Before accepting the code into the main branch, the owner can review it and make sure it won't have an impact on the original project by submitting a pull request.
+
+# How to make a pull request
+
+Before creating a pull request, the first thing to do is to fork the repository you want to contribute to
+
+## Forking a repository
+ 1. click on the fork button. In this example I using the Git Demo Github repository.
+ ![image](https://user-images.githubusercontent.com/95081227/205909134-275cc2e4-b979-41dc-8857-910aa7345ea3.png)
+ 
+ 2. You will be navigated to the create a new fork section in which you can change the name of the repository name. When you done, Click on the Create fork button.
+
