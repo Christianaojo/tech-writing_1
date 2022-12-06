@@ -65,6 +65,6 @@ Cloning on GitHub means to download a copy of a repository from a remote server 
 
 For instance:
 
-`git clone https://github.com/GloriaOkeke/demo-repository.git`
+`git clone https://github.com/Christianaojo/Demo-Repository.git`
 The GitHub repository will be downloaded (cloned) immediately to your PC.
 ## Congratulations! You have successfully cloned a repository.
