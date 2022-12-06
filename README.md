@@ -78,4 +78,7 @@ For instance:
 
 `git clone https://github.com/Christianaojo/Demo-Repository.git`
 The GitHub repository will be downloaded (cloned) immediately to your PC.
+
+![5](https://user-images.githubusercontent.com/95081227/205906811-848e8d65-3fdd-4f0b-8b90-77ea30f61e99.JPG)
+
 ## Congratulations! You have successfully cloned a repository.
