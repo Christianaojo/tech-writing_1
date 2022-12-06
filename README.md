@@ -86,6 +86,12 @@ The GitHub repository will be downloaded (cloned) immediately to your PC.
 # Pull Request(PR)
 You can suggest modifications and ask the repository owner to review, pull in, and merge your contribution into their branch by submitting a pull request. Before accepting the code into the main branch, the owner can review it and make sure it won't have an impact on the original project by submitting a pull request.
 
+# How to commit to a repository
+
+A commit is a change that is made to one or more project files. Adding contributions to GitHub enables you to follow changes and progress as you work. Each commit is regarded by Git as a "save point" that you may go back to if there is an issue or you need to make other changes.
+
+Each commit has a related commit statement that explains the reasoning behind each change.
+
 # How to make a pull request
 
 Before creating a pull request, the first thing to do is to fork the repository you want to contribute to
@@ -95,4 +101,15 @@ Before creating a pull request, the first thing to do is to fork the repository 
  ![image](https://user-images.githubusercontent.com/95081227/205909134-275cc2e4-b979-41dc-8857-910aa7345ea3.png)
  
  2. You will be navigated to the create a new fork section in which you can change the name of the repository name. When you done, Click on the Create fork button.
+ 3. In your forked repository, you can make any changes to it without affecting the original repository.
+ 4. Make a clone of the forked repository on your local computer. Refer to the how to clone section above to complete this step.
+ 5. Launch a text editor, in this case, Vscode.
+ 6. Open a folder to clone your repository and open a terminal.
+ 7. Type the command [git checkout -b [name of the branch]] and press enter to create a new branch in the repository.
+ 8. Make the changes you want to this repository and save[ctrl+s].
+ 9. Type the command git status to see the changes you have made and type git add . to add all the changes you have made and notify Git that you would like to include those changes in the next commit.
+10. Type git commit -m [a message explaining what the commit is about] and press enter. You should get a message highlighting the changes you made. This will save all changes selected or added.
+11. Then, type git push origin [the branch you want to push] and click enter.
+If you have done the previous steps correctly, you should get a message stating you have made a successful push. Go back to GitHub to see your pushed branch.
+On GitHub, on the right-hand side of the new branch, you will see a green button tagged compare and pull request. Click it to proceed.
 
