@@ -1,4 +1,6 @@
+
 # Introduction to GitHub
+![github home page](https://user-images.githubusercontent.com/95081227/205900828-f930e396-6e53-4397-87ba-0d0f0f081a11.JPG)
 
 Launched in 2008, GitHub has become one of the most popular version control systems used by software developers, with over 40 million users and over 100 million repositories. It allows users to store their code in a central repository and collaborate with other users on that code. With GitHub, users can collaborate on code, review changes, and track changes to their code. GitHub also allows users to access their code from anywhere in the world, making it easier for them to work with colleagues on different continents. GitHub is an essential tool for software developers, and its popularity continues to grow each year.
 
@@ -56,9 +58,11 @@ Cloning on GitHub means to download a copy of a repository from a remote server 
 ## Steps
 
 1. Go to the GitHub page and login to your profile
+![Github Login](https://user-images.githubusercontent.com/95081227/205901124-38a7b0fb-a8e7-45c3-aecb-d7acff5330d5.JPG)
 2. Navigate to the repositories
 3. Select the GitHub repository you wish to clone by clicking on it (in this project I will clone the [Git Demo Github repository](https://github.com/Christianaojo/Demo-Repository.git).)
-4. Once the repository opens, Click `Code` button on green
+4. Once the repository opens, Click `Code` button on green![Uploading Github Login.JPG…]()
+
 5. Copy the url for the repository by clicking on the copy icon using the SSH option.
 6. Return to your Computer's home screen and Open `Terminal`
 7. Type git clone and paste the link you copied in 3, press enter to start cloning. Depending on the dependencies in the repository it might take some time to clone.
