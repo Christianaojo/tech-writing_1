@@ -58,7 +58,9 @@ Cloning on GitHub means to download a copy of a repository from a remote server 
 ## Steps
 
 1. Go to the GitHub page and login to your profile
-![Github Login](https://user-images.githubusercontent.com/95081227/205901124-38a7b0fb-a8e7-45c3-aecb-d7acff5330d5.JPG)
+
+![login](https://user-images.githubusercontent.com/95081227/205902306-2f4a8ce8-00ca-418b-b246-1aea6da01208.JPG)
+
 2. Navigate to the repositories
 3. Select the GitHub repository you wish to clone by clicking on it (in this project I will clone the [Git Demo Github repository](https://github.com/Christianaojo/Demo-Repository.git).)
 4. Once the repository opens, Click `Code` button on green![Uploading Github Login.JPG…]()
