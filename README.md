@@ -116,7 +116,11 @@ You can suggest modifications and ask the repository owner to review, pull in, a
  
 Now that you have fork and cloned the repository you want to contribute to and also made your commit, next thing is to create a pull request.
 
-On GitHub, on the right-hand side of the new branch, you will see a green button tagged compare and pull request. Click it to proceed.
+1. On GitHub, on the right-hand side of the new branch, you will see a green button tagged compare and pull request. Click it to proceed.
+![annotely_image (5)](https://user-images.githubusercontent.com/95081227/207318999-274cf364-879a-4a36-a7fb-005913abfd03.jpeg)
+
+2. Now write a note describing the change and click "Create pull request."
+
 
 # Conclusion:
 Learning how to use GitHub as a developer, whether you are a junior or senior developer, is crucial to your future in software development. You must have a basic understanding of GitHub in order to network with other developers, benefit from their knowledge, and maybe land a job.
