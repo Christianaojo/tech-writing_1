@@ -99,7 +99,11 @@ To commit changes to your repository,
 ![annotely_image (4)](https://user-images.githubusercontent.com/95081227/207313843-f387e314-ed81-4ba4-b473-164c4588217c.jpeg)
 3. Open the file and input your edits and save your edits when done.
 4. Open the terminal on the vscode folder and type `git add .` to stage the changes you just made and type in `git commit -m "commit note"`
+5. To push back to github, type `git push origin {branchname}`.
+6. Open GitHub to confirm your commit was successful.
+![1](https://user-images.githubusercontent.com/95081227/207315295-844bd7ef-a489-4fc2-8f08-ec6420ae3208.JPG)
 
+If you got here, then Congratulations! You have succesfully made a commit
 # How to make a pull request
 
 Before creating a pull request, the first thing to do is to fork the repository you want to contribute to
