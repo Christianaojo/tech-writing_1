@@ -83,8 +83,14 @@ The GitHub repository will be downloaded (cloned) immediately to your PC.
 
 ## Congratulations! You have successfully cloned a repository.
 
-# Pull Request(PR)
-You can suggest modifications and ask the repository owner to review, pull in, and merge your contribution into their branch by submitting a pull request. Before accepting the code into the main branch, the owner can review it and make sure it won't have an impact on the original project by submitting a pull request.
+
+## How to fork a repository
+ 1. click on the fork button. In this example I using the Git Demo Github repository.
+ ![image](https://user-images.githubusercontent.com/95081227/205909134-275cc2e4-b979-41dc-8857-910aa7345ea3.png)
+ 
+ 2. You will be navigated to the create a new fork section in which you can change the name of the repository name. When you done, Click on the Create fork button.
+ 3. In your forked repository, you can make any changes to it without affecting the original repository.
+ 4. Now make a clone of the forked repository on your local computer. Refer to the how to clone section above to complete this step.
 
 # How to commit to a repository
 
@@ -103,26 +109,13 @@ To commit changes to your repository,
 6. Open GitHub to confirm your commit was successful.
 ![1](https://user-images.githubusercontent.com/95081227/207315295-844bd7ef-a489-4fc2-8f08-ec6420ae3208.JPG)
 
-If you got here, then Congratulations! You have succesfully made a commit
-# How to make a pull request
+## If you got here, then Congratulations! You have succesfully made a commit
 
-Before creating a pull request, the first thing to do is to fork the repository you want to contribute to
-
-## Forking a repository
- 1. click on the fork button. In this example I using the Git Demo Github repository.
- ![image](https://user-images.githubusercontent.com/95081227/205909134-275cc2e4-b979-41dc-8857-910aa7345ea3.png)
+ # How to make a pull request
+You can suggest modifications and ask the repository owner to review, pull in, and merge your contribution into their branch by submitting a pull request. Before accepting the code into the main branch, the owner can review it and make sure it won't have an impact on the original project by submitting a pull request.
  
- 2. You will be navigated to the create a new fork section in which you can change the name of the repository name. When you done, Click on the Create fork button.
- 3. In your forked repository, you can make any changes to it without affecting the original repository.
- 4. Make a clone of the forked repository on your local computer. Refer to the how to clone section above to complete this step.
- 5. Launch a text editor, in this case, Vscode.
- 6. Open a folder to clone your repository and open a terminal.
- 7. Type the command [git checkout -b [name of the branch]] and press enter to create a new branch in the repository.
- 8. Make the changes you want to this repository and save[ctrl+s].
- 9. Type the command git status to see the changes you have made and type git add . to add all the changes you have made and notify Git that you would like to include those changes in the next commit.
-10. Type git commit -m [a message explaining what the commit is about] and press enter. You should get a message highlighting the changes you made. This will save all changes selected or added.
-11. Then, type git push origin [the branch you want to push] and click enter.
-If you have done the previous steps correctly, you should get a message stating you have made a successful push. Go back to GitHub to see your pushed branch.
+Now that you have fork and cloned the repository you want to contribute to and also made your commit, next thing is to create a pull request.
+
 On GitHub, on the right-hand side of the new branch, you will see a green button tagged compare and pull request. Click it to proceed.
 
 # Conclusion:
