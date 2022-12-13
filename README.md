@@ -121,6 +121,8 @@ Now that you have fork and cloned the repository you want to contribute to and a
 
 2. Now write a note describing the change and click "Create pull request."
 
+And again, Congratulations! You just created a pull request
+
 
 # Conclusion:
 Learning how to use GitHub as a developer, whether you are a junior or senior developer, is crucial to your future in software development. You must have a basic understanding of GitHub in order to network with other developers, benefit from their knowledge, and maybe land a job.
