@@ -91,6 +91,14 @@ You can suggest modifications and ask the repository owner to review, pull in, a
 A commit is a change that is made to one or more project files. Adding contributions to GitHub enables you to follow changes and progress as you work. Each commit is regarded by Git as a "save point" that you may go back to if there is an issue or you need to make other changes.
 
 Each commit has a related commit statement that explains the reasoning behind each change.
+To commit changes to your repository, 
+
+1. Firstly open vscode and open the github file you have cloned or forked, in this case we will be working with our cloned repository
+![annotely_image (3)](https://user-images.githubusercontent.com/95081227/207313059-231403b8-ab80-4ce7-a909-78400e26d388.jpeg)
+2. Then open the terminal in your vscode and type git checkout -b {branchname} to change file branch
+![annotely_image (4)](https://user-images.githubusercontent.com/95081227/207313843-f387e314-ed81-4ba4-b473-164c4588217c.jpeg)
+3. Open the file and input your edits and save your edits when done.
+4. Open the terminal on the vscode folder and type `git add .` to stage the changes you just made and type in `git commit -m "commit note"`
 
 # How to make a pull request
 
